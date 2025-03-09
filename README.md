@@ -6,7 +6,11 @@ IntelliPDF is an AI-driven chatbot that allows users to interact with PDF docume
 
 # ✨ Features
 
-✅ Upload and process PDF files.✅ Ask questions about the document's content.✅ Retrieve relevant information using RAG.✅ Generate responses with Gemini 1.5 Pro.✅ Sleek, dark-themed UI built with Streamlit.
+✅ Upload and process PDF files. <br>
+✅ Ask questions about the document's content. <br>
+✅ Retrieve relevant information using RAG. <br>
+✅ Generate responses with Gemini 1.5 Pro. <br>
+✅ Sleek, dark-themed UI built with Streamlit. <br>
 
 # 🛠️ Technologies
 
@@ -21,5 +25,5 @@ Dependencies: google-generativeai, pdfplumber, faiss-cpu, numpy
 1️⃣ Extract text from uploaded PDFs. <br>
 2️⃣ Split text into chunks and generate embeddings. <br>
 3️⃣ Use FAISS for similarity search and retrieve relevant context.<br>
-4️⃣ Generate answers using Gemini 1.5 Pro.
+4️⃣ Generate answers using Gemini 1.5 Pro. <br>
 
